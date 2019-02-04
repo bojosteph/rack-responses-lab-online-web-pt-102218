@@ -1,1 +1,10 @@
-class 
+class Application
+  
+  
+  def 
+  
+  
+  
+  
+  
+end
