@@ -7,6 +7,8 @@ class Application
     time = Time.new
     
     resp.write "#{time}\n"
+    
+    if time <= 12:00:00
   
   
   
