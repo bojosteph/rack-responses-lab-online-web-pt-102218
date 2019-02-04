@@ -1,7 +1,7 @@
 class Application
   
   
-  def app(env)
+  def call(env)
     resp = Rack::Response.new
     
     time = Time.now.hour
